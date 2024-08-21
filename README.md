@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Rana</h1>
 <h3 align="center">🚀 Flutter Developer | 📱 Cross-Platform Mobile Experiences | 📲 Mobile Application Developer | ✨ Open to New Opportunities ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrana844&label=Profile%20views&color=0e75b6&style=flat" alt="RanaDipak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrana844&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&style=plastic" alt="RanaDipak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipakrana844" alt="RanaDipak" /></a> </p>
 
