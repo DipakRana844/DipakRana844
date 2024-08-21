@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipak Rana</h1>
 <h3 align="center">🚀 Flutter Developer | 📱 Cross-Platform Mobile Experiences | 📲 Mobile Application Developer | ✨ Open to New Opportunities ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrana844&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&style=plastic" alt="RanaDipak" /> </p>
+# 💫 About Me:
+📚 Learn & Explore: Dive into Flutter docs and tutorials.<br>🛠️ Set Up: Install Flutter SDK and a compatible IDE.<br>🚀 Optimize: Use performance tools for a smooth app.<br>🎨 Design: Create intuitive and visually appealing UIs.<br>🧪 Test: Write tests to ensure your app works correctly.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipakrana844" alt="RanaDipak" /></a> </p>
 
@@ -21,3 +22,11 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=dipakrana844&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dipakrana844&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrana844&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&style=plastic" alt="RanaDipak" /> </p>
