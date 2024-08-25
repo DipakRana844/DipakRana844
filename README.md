@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipak Rana</h1>
+<h1 align="center">Hi 👋, I'm Dipak Rana 👋 </h1>
 <h3 align="center">🚀 Flutter Developer | 📱 Cross-Platform Mobile Experiences | 📲 Mobile Application Developer | ✨ Open to New Opportunities ✨</h3>
 
 # 💫 About Me:
