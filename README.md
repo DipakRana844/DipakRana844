@@ -35,8 +35,4 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/dipakrana844/dipakrana844/output/snake.svg" alt="Snake animation" />
-
-##
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakrana844&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true&style=plastic" alt="RanaDipak" /> </p>
